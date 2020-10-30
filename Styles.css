@@ -1,0 +1,44 @@
+table, th, td {
+  border: 3px solid black;
+  text-align:center;
+  padding: 5px;
+  height:5px;
+  background-color: #dd99ff;
+  color:white;
+  
+}
+
+p {
+	font-family: 'Just Me Again Down Here', cursive;
+}
+
+span{
+	color:orange;
+	
+}
+
+span:hover {
+	background-color: #cc99ff;
+	cursor: pointer;
+	text-decoration: underline;
+}	
+
+.main {
+  background-color: #00ff99;
+  color:red;
+  text-align: center;
+  border:10px dashed-black;
+  font-family: 'Architects Daughter', cursive;
+  border:4px dashed black;
+  font-style: italic;
+}
+
+body{
+	background-color:#ffff80;
+}
+
+.button{
+	background-color:#99ff66;
+	padding:10px;
+	display: inline-block;
+}
